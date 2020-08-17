@@ -1,0 +1,30 @@
+/* SmartPhones */
+@media(max-width:500px){
+.mainnav{
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.mainnav .logo{
+    margin-bottom: 1rem;
+    text-align: center;
+
+}
+
+.mainnav .ul{
+    padding: 0.1rem;
+
+}
+
+.nav{
+    flex-direction: column;
+    display: block;
+
+}
+
+.l-heading{
+    font-size: 1rem;
+}
+
+}
